@@ -1,0 +1,9 @@
+README.md
+setup.py
+Coptic_AI_Knowledge_Base_Chatbot.egg-info/PKG-INFO
+Coptic_AI_Knowledge_Base_Chatbot.egg-info/SOURCES.txt
+Coptic_AI_Knowledge_Base_Chatbot.egg-info/dependency_links.txt
+Coptic_AI_Knowledge_Base_Chatbot.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
