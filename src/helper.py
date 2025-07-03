@@ -62,9 +62,9 @@ def load_csv_and_pdf_files(data):
 extracted_all_data = load_csv_and_pdf_files(data='data/')
 
 #Split the Data into Text Chunks
-def text_split(extracted_data):
+def text_split(extracted_all_data):
     text_splitter=RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=20)
-    text_chunks=text_splitter.split_documents(extracted_data)
+    text_chunks=text_splitter.split_documents(extracted_all_data)
     return text_chunks
 
 

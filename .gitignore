@@ -1,3 +1,6 @@
 /cvenv
 cvenv
 cvenv/
+.env
+.env/
+
