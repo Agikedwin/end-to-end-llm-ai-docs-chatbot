@@ -7,3 +7,17 @@ python3 -m venv cvenv
 ```bash
 source cvenv/bin/activate
 ```
+
+```bash
+python3 app.py
+```
+
+##Stack
+- Pinecone
+- Flask
+- GPT
+- LangChain
+- Python
+
+
+
