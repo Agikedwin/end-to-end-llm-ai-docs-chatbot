@@ -3,4 +3,5 @@ cvenv
 cvenv/
 .env
 .env/
+/.env
 
