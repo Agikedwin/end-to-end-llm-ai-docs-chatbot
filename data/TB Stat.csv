@@ -1,0 +1,130 @@
+mfl,Facility_Name,gender,birthdate,openmrs_id,upn,tb_enrolment_date,hts_date,disease_classification,patient_classification,pulmonary_smear_result,Client_HIV_Status,HIV_Test_Category
+12905,"Coptic Hospital (Ngong Road)",M,1997-06-15,MVFJPE,NULL,2024-10-01,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Negative,Negative
+12905,"Coptic Hospital (Ngong Road)",F,1995-06-01,MUJCAF,NULL,2024-10-01,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Unknown,Unknown
+12905,"Coptic Hospital (Ngong Road)",F,2002-06-15,MVGNR3,NULL,2024-10-02,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12905,"Coptic Hospital (Ngong Road)",F,1997-06-15,MV6EHL,1290522823,2024-10-03,2024-08-19,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+12905,"Coptic Hospital (Ngong Road)",M,1999-08-10,MGY669,12905-9265,2024-10-09,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+12905,"Coptic Hospital (Ngong Road)",F,1988-12-08,MHGP7M,1290516539,2024-10-16,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+12905,"Coptic Hospital (Ngong Road)",M,1967-11-15,MVJKDW,1290522945,2024-10-14,2024-10-29,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+12905,"Coptic Hospital (Ngong Road)",M,1980-01-03,MLYFJX,1290520819,2024-10-17,2021-05-03,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+12905,"Coptic Hospital (Ngong Road)",F,1979-03-18,MVGXCR,1290522886,2024-10-17,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+12905,"Coptic Hospital (Ngong Road)",F,2008-11-23,MVHMJJ,NULL,2024-10-17,2024-10-14,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12905,"Coptic Hospital (Ngong Road)",M,1955-01-01,MVK6NH,NULL,2024-10-28,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Negative,Negative
+12905,"Coptic Hospital (Ngong Road)",F,2010-08-12,MUE4GJ,1304602111,2024-11-05,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+12905,"Coptic Hospital (Ngong Road)",M,1996-06-01,MUNARY,NULL,2024-11-11,2024-11-11,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12905,"Coptic Hospital (Ngong Road)",F,2005-01-01,MTTVR7,1304806409,2024-11-12,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+12905,"Coptic Hospital (Ngong Road)",F,1990-06-15,MTDPHW,NULL,2024-11-12,NULL,"PNEUMONIA, TUBERCULOUS","relapse, smear positive tuberculosis",POSITIVE,Negative,Negative
+12905,"Coptic Hospital (Ngong Road)",M,1981-06-15,MVPFWF,NULL,2024-11-21,NULL,"PNEUMONIA, TUBERCULOUS","relapse, smear positive tuberculosis",POSITIVE,Negative,Negative
+12905,"Coptic Hospital (Ngong Road)",M,2007-01-01,MVNNCJ,NULL,2024-11-25,2024-11-25,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12905,"Coptic Hospital (Ngong Road)",F,1972-03-16,MGWKRL,1290508304,2024-11-28,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+12905,"Coptic Hospital (Ngong Road)",M,1992-06-15,MVRUD6,NULL,2024-11-28,2024-12-05,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12905,"Coptic Hospital (Ngong Road)",M,1993-08-08,MR99T3,1290522239,2024-12-11,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient","Not done",Positive,"Known Positive"
+12904,"Coptic Medical Medical",F,1988-06-15,MJWHVE,NULL,2024-10-22,2024-10-08,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",F,1982-04-16,MGJFEG,1288101959,2024-10-04,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1981-07-05,MGJUJN,1288102192,2024-10-07,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1985-06-15,MHDYLN,1288108510,2024-10-08,2022-06-21,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",M,1974-06-15,MJG4UU,NULL,2024-10-11,2024-10-11,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1978-06-15,MJG696,1288109090,2024-10-11,2024-10-11,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1962-06-15,MJG6WM,1403605550,2024-10-14,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1983-06-15,MJFRNK,NULL,2024-10-01,2024-10-01,"PNEUMONIA, TUBERCULOUS","relapse, smear positive tuberculosis",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",F,2003-06-15,MJFWCA,NULL,2024-10-04,2024-10-04,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1997-06-15,MJFWPD,NULL,2024-10-08,2024-10-07,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1994-06-15,MJFXU3,1288109089,2024-10-16,2024-10-07,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1991-06-15,MJ9JEV,1288108989,2024-10-22,2024-05-31,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1993-06-15,MJGKTG,1288109096,2024-10-23,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",M,2019-09-02,MGXARU,NULL,2024-10-07,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",F,1995-06-15,MJG7ER,NULL,2024-10-24,2024-10-14,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1999-06-15,MJGCFK,NULL,2024-10-24,2024-10-15,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1988-02-18,MHHGGC,NULL,2024-10-24,2024-10-11,"PNEUMONIA, TUBERCULOUS","relapse, smear negative tuberculosis",NEGATIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1980-06-15,MJGJRK,NULL,2024-10-24,2024-10-22,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1989-06-15,MJGPCE,1288109097,2024-10-25,2024-10-25,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",M,2004-06-15,MJGLUD,NULL,2024-10-29,2024-10-23,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,2003-06-15,MJGJTH,NULL,2024-10-22,2024-10-22,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1995-06-15,MJGP7L,NULL,2024-10-08,2024-10-18,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1985-06-15,MJFAM7,NULL,2024-10-18,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,NULL,Unknown
+12881,"Baraka Dispensary (Nairobi)",F,1990-06-15,MJGWD4,1288109100,2024-10-31,2024-10-30,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1988-06-15,MJGYTY,1288109102,2024-11-01,2024-10-31,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",M,1979-07-01,MGXMF9,1288108005,2024-11-01,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1986-06-15,MJGY7D,1288109101,2024-11-01,2024-10-31,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",F,2006-07-05,MJGTF3,1288109099,2024-11-04,2024-10-28,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",M,1998-06-15,MJFUV4,1288109086,2024-11-07,2024-10-04,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1991-06-15,MJHCEK,1288109104,2024-11-07,2024-11-07,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1985-06-15,MJHEFF,NULL,2024-10-24,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1995-06-15,MJH9RT,1288109103,2024-11-11,2024-11-06,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1987-12-24,MGWVLL,1288107881,2024-11-13,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient","Not done",Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1997-08-25,MHF7R3,1288108555,2024-11-14,2022-08-25,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1954-06-15,MJH3KE,NULL,2024-11-01,2024-10-31,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1972-06-15,MJHDY9,NULL,2024-11-08,2024-11-08,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,2002-06-15,MJHEWD,NULL,2024-11-11,2024-11-11,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1985-06-15,MJHF7U,NULL,2024-11-11,2024-11-11,"PNEUMONIA, TUBERCULOUS","relapse, smear positive tuberculosis",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1995-06-15,MJHHEE,NULL,2024-11-13,2024-11-13,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1988-06-15,MJHHJ3,NULL,2024-11-13,2024-11-13,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,2022-06-15,MJHJCH,NULL,2024-11-14,2024-11-14,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient","Not done",Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1987-06-15,MJHM3U,1589401535,2024-11-19,NULL,"PNEUMONIA, TUBERCULOUS","relapse, smear negative tuberculosis",NEGATIVE,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",F,2024-08-12,MJFGK6,NULL,2024-11-21,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,1995-06-15,MJH7NY,1288109114,2024-11-21,2024-10-17,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",M,1982-06-15,MJGCEM,1288109091,2024-11-28,2024-10-15,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Positive,"Known Positive"
+12881,"Baraka Dispensary (Nairobi)",M,2024-02-25,MJ6KD4,NULL,2024-11-29,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Negative,Negative
+12881,"Baraka Dispensary (Nairobi)",M,2022-06-15,MJJ6JD,1288109120,2024-11-05,2024-11-05,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Positive,"New Positive"
+12881,"Baraka Dispensary (Nairobi)",F,1991-06-15,MJJFX6,1288109123,2024-12-10,2024-12-19,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Positive,"New Positive"
+18745,"Comboni Sisters H Project VCT",M,1970-05-07,MGJ7FL,1874501830,2024-10-01,2021-03-29,"PNEUMONIA, TUBERCULOUS","relapse, smear positive tuberculosis",POSITIVE,Positive,"Known Positive"
+18745,"Comboni Sisters H Project VCT",M,1971-11-25,MGHV4L,1874501820,2024-10-01,2021-02-26,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+18745,"Comboni Sisters H Project VCT",F,1994-03-15,MGUCDX,1874502143,2024-10-09,2024-10-07,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"New Positive"
+18745,"Comboni Sisters H Project VCT",M,1991-08-02,MGUCR3,NULL,2024-10-17,2024-10-11,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+18745,"Comboni Sisters H Project VCT",F,2019-08-18,MGUDYJ,NULL,2024-10-22,2024-10-22,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Negative,Negative
+18745,"Comboni Sisters H Project VCT",M,1975-07-15,MGUGCV,NULL,2024-11-06,2024-11-05,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+18745,"Comboni Sisters H Project VCT",M,1982-03-03,MGUGFM,NULL,2024-11-07,2024-11-07,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+18745,"Comboni Sisters H Project VCT",M,1990-08-01,MGUGN3,NULL,2024-11-13,2024-11-13,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+18745,"Comboni Sisters H Project VCT",M,1966-06-01,MGU3YT,1874502137,2024-11-29,2024-08-28,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+18745,"Comboni Sisters H Project VCT",F,1988-11-11,MGU3XV,1874502138,2024-12-17,2024-08-28,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+13057,"Makadara Mercy Sisters Dispensary",M,1989-10-15,MGVYWW,NULL,2024-10-02,2024-09-25,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+13057,"Makadara Mercy Sisters Dispensary",F,1979-08-22,MGVYU4,1305707325,2024-10-31,2024-09-24,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+13057,"Makadara Mercy Sisters Dispensary",F,2019-07-28,MGWK4Y,NULL,2024-11-05,2024-10-28,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+13057,"Makadara Mercy Sisters Dispensary",M,1988-06-01,MGWRKT,NULL,2024-11-12,2024-11-12,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+13057,"Makadara Mercy Sisters Dispensary",M,1967-07-04,MGWTML,NULL,2024-11-13,2024-11-13,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+13057,"Makadara Mercy Sisters Dispensary",M,1997-10-23,MGWTPG,1305707335,2024-11-14,2024-11-14,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"New Positive"
+13057,"Makadara Mercy Sisters Dispensary",F,1992-09-02,MGWTU9,NULL,2024-11-14,2024-11-14,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+13057,"Makadara Mercy Sisters Dispensary",F,1987-06-11,MGWTRE,NULL,2024-11-16,2024-11-14,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+13057,"Makadara Mercy Sisters Dispensary",M,1979-01-01,MGWULM,NULL,2024-11-16,2024-11-16,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+13057,"Makadara Mercy Sisters Dispensary",M,1983-11-03,MGV9A6,NULL,2024-11-28,2024-06-21,"PNEUMONIA, TUBERCULOUS","relapse, smear positive tuberculosis",POSITIVE,Negative,Negative
+13057,"Makadara Mercy Sisters Dispensary",M,2001-03-01,MGX4LD,1305707343,2024-12-07,2024-12-04,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"New Positive"
+13057,"Makadara Mercy Sisters Dispensary",F,1986-10-03,MGX7KD,NULL,2024-12-09,2024-12-09,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+13057,"Makadara Mercy Sisters Dispensary",F,1981-06-15,MGH9YF,1305706931,2024-12-13,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+24563,"Nairobi Adventist Hospital",M,2000-06-15,MGMJE3,NULL,2024-10-02,2024-09-13,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+24563,"Nairobi Adventist Hospital",M,1974-06-15,MGMRKE,NULL,2024-10-14,2024-10-14,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+24563,"Nairobi Adventist Hospital",M,1978-11-28,MGMXNW,NULL,2024-11-04,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+24563,"Nairobi Adventist Hospital",M,2004-03-26,MGMXRR,NULL,2024-10-25,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,NULL,Unknown
+24563,"Nairobi Adventist Hospital",M,1988-06-15,MGMGF3,NULL,2024-10-25,2024-08-29,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+15862,"Coptic Nursing Home",M,1991-06-14,MJN7NK,NULL,2024-10-16,2024-10-16,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+15862,"Coptic Nursing Home",M,1969-08-22,MHHJ7R,1586206016,2024-10-14,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+15862,"Coptic Nursing Home",M,1986-06-15,MHPXH7,1586206166,2024-10-16,2022-08-31,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient","Not done",Positive,"Known Positive"
+15862,"Coptic Nursing Home",M,1973-06-15,MJTUPK,NULL,2024-11-14,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,NULL,Unknown
+15862,"Coptic Nursing Home",M,1992-09-09,MJUGUM,NULL,2024-11-19,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,NULL,Unknown
+15862,"Coptic Nursing Home",M,1966-02-21,MGPPHG,1586205213,2024-11-22,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+15862,"Coptic Nursing Home",F,2016-01-01,MJUH9W,NULL,2024-11-25,2024-11-25,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient","Not done",Unknown,Unknown
+15862,"Coptic Nursing Home",F,2018-01-01,MJUH47,NULL,2024-11-25,2024-11-25,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient","Not done",Negative,Negative
+15862,"Coptic Nursing Home",M,1964-06-15,MJ7MTW,NULL,2024-11-28,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+15862,"Coptic Nursing Home",M,1981-11-27,MJULVF,1586206404,2024-11-29,2024-11-29,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"New Positive"
+15862,"Coptic Nursing Home",M,1993-06-15,MJTKJC,NULL,2024-10-16,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,NULL,Unknown
+17723,"St Barkita Dispensary (Westlands)",M,1999-09-07,MH3L4P,NULL,2024-10-16,2024-10-16,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+17683,"St Raphael Clinic",F,1965-01-25,MH43HF,1768300982,2024-10-03,2024-10-01,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"New Positive"
+17683,"St Raphael Clinic",M,1985-11-19,MGFUJW,1768300331,2024-11-29,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+13074,"The Mater Hospital Mukuru",M,1989-11-22,MJ9FMF,1307409269,2024-10-07,2024-10-01,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"New Positive"
+13074,"The Mater Hospital Mukuru",F,1992-01-15,MJ9GME,NULL,2024-10-03,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Negative,Negative
+13074,"The Mater Hospital Mukuru",M,1974-09-14,MJ9L3G,NULL,2024-10-09,2024-10-09,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+13074,"The Mater Hospital Mukuru",M,1980-06-15,MJ9VRN,NULL,2024-10-14,2024-10-14,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Negative,Negative
+13074,"The Mater Hospital Mukuru",F,2004-06-15,MJAGDX,NULL,2024-10-30,2024-10-29,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Negative,Negative
+13074,"The Mater Hospital Mukuru",F,1950-06-15,MJANEM,NULL,2024-11-05,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+13074,"The Mater Hospital Mukuru",M,1972-11-27,MGGDYE,1307400595,2024-10-31,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Positive,"Known Positive"
+13074,"The Mater Hospital Mukuru",F,1966-12-10,MJ9FAA,1307409268,2024-10-31,2024-09-26,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+13074,"The Mater Hospital Mukuru",M,1968-01-16,MJAU36,NULL,2024-11-12,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Unknown,Unknown
+13074,"The Mater Hospital Mukuru",M,2000-06-15,MJC4CD,NULL,2024-10-30,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+13074,"The Mater Hospital Mukuru",F,1992-02-15,MGLVN4,1307403874,2024-11-25,NULL,"PNEUMONIA, TUBERCULOUS","relapse, smear negative tuberculosis",NEGATIVE,Positive,"Known Positive"
+13074,"The Mater Hospital Mukuru",F,1998-06-15,MH9G7F,1307408411,2024-11-29,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",POSITIVE,Positive,"Known Positive"
+13074,"The Mater Hospital Mukuru",F,1998-11-07,MH6R3H,1307408351,2024-11-29,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"
+13074,"The Mater Hospital Mukuru",M,2001-10-26,MJCJHH,NULL,2024-12-04,NULL,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Negative,Negative
+13074,"The Mater Hospital Mukuru",M,2007-04-13,MJ9JLE,1307409279,2024-10-01,2024-10-08,"PNEUMONIA, TUBERCULOUS","smear positive, new tuberculosis patient",NEGATIVE,Positive,"New Positive"
+13074,"The Mater Hospital Mukuru",F,1998-01-01,MJCLJD,NULL,2024-12-06,2024-12-06,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Negative,Negative
+13074,"The Mater Hospital Mukuru",F,1986-03-07,MJCLPV,1307409298,2024-12-09,2024-12-09,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"New Positive"
+13074,"The Mater Hospital Mukuru",F,1987-10-13,MGTMJC,1307407493,2024-12-10,NULL,"PNEUMONIA, TUBERCULOUS","relapse, smear positive tuberculosis",POSITIVE,Positive,"Known Positive"
+13074,"The Mater Hospital Mukuru",M,1999-01-01,MGGECT,1307400600,2024-12-20,NULL,"Mycobacterium Tuberculosis, extrapulmonary","smear positive, new tuberculosis patient",NULL,Positive,"Known Positive"

@@ -1,0 +1,123 @@
+﻿mfl,Facility_Name,gender,Age,Age_group,openmrs_id,upn,tb_enrolment_date,TB_Type,TB_Outcome_Errors,tb_outcome,tb_outcome_date,Client_HIV_Status
+12881,Baraka Dispensary (Nairobi),M,33,12-30-33,MHR7RC,1288108822,10-02-23,PTB GXpert -ve,PTB GXpert -ve Error,"Cure, outcome",02-29-24,Positive
+12881,Baraka Dispensary (Nairobi),F,30,12-30-33,MHRAXT,2067800013,10-02-23,EPTB,No Error,Treatment complete,04-09-24,Positive
+12881,Baraka Dispensary (Nairobi),M,35,35-39 Years,MGYKNL,1288108217,10-04-23,EPTB,No Error,Treatment complete,05-29-24,Positive
+12881,Baraka Dispensary (Nairobi),F,0,11-30-99,MHH7WK,NULL,10-11-23,PTB GXpert -ve,No Error,Treatment complete,04-12-24,Negative
+12881,Baraka Dispensary (Nairobi),F,60,50+ Years,MHKDJ3,2062501225,10-17-23,PTB GXpert -ve,No Error,Missing,NULL,Positive
+12881,Baraka Dispensary (Nairobi),F,24,12-20-23,MHRNNW,NULL,10-17-23,PTB GXpert +ve,No Error,"Cure, outcome",04-15-24,Negative
+12881,Baraka Dispensary (Nairobi),F,39,35-39 Years,MHRTXA,1288108835,10-19-23,PTB GXpert -ve,No Error,Treatment complete,04-19-24,Positive
+12881,Baraka Dispensary (Nairobi),F,46,45-49 Years,MHGXYN,NULL,10-19-23,PTB GXpert +ve,No Error,"Cure, outcome",05-23-24,Negative
+12881,Baraka Dispensary (Nairobi),M,54,50+ Years,MHLDYX,NULL,10-23-23,PTB GXpert -ve,No Error,Missing,NULL,Negative
+12881,Baraka Dispensary (Nairobi),F,8,05-09-00,MHRDHP,NULL,10-03-23,PTB GXpert +ve,No Error,"Cure, outcome",04-12-24,Negative
+12881,Baraka Dispensary (Nairobi),F,39,35-39 Years,MHRHGM,1288108828,10-12-23,PTB GXpert -ve,No Error,Treatment complete,04-22-24,Positive
+12881,Baraka Dispensary (Nairobi),F,45,45-49 Years,MHRXLT,1288108839,10-27-23,EPTB,No Error,Treatment complete,05-07-24,Positive
+12881,Baraka Dispensary (Nairobi),F,36,35-39 Years,MHRXUD,1288108840,10-27-23,PTB GXpert -ve,No Error,Treatment complete,04-16-24,Positive
+12881,Baraka Dispensary (Nairobi),F,0,11-30-99,MHRH79,NULL,11-08-23,PTB Smear Not Done,No Error,Treatment complete,05-22-24,Negative
+12881,Baraka Dispensary (Nairobi),M,36,35-39 Years,MHT96H,1288108844,11-10-23,PTB Smear Not Done,No Error,Treatment complete,05-13-24,Positive
+12881,Baraka Dispensary (Nairobi),M,24,12-20-23,MHKLHU,NULL,11-15-23,PTB GXpert +ve,No Error,"Cure, outcome",11-16-23,Negative
+12881,Baraka Dispensary (Nairobi),F,39,35-39 Years,MHTF3G,1288108846,11-20-23,EPTB,EPTB Error,"Cure, outcome",06-10-24,Positive
+12881,Baraka Dispensary (Nairobi),F,64,50+ Years,MGP7G4,1288104908,11-21-23,EPTB,No Error,Treatment complete,05-15-24,Positive
+12881,Baraka Dispensary (Nairobi),M,1,01-04-00,MHDEFR,NULL,11-22-23,PTB GXpert -ve,No Error,Treatment complete,05-31-24,Negative
+12881,Baraka Dispensary (Nairobi),F,45,45-49 Years,MHTX6P,1288108852,11-21-23,PTB GXpert -ve,No Error,Treatment complete,05-17-24,Positive
+12881,Baraka Dispensary (Nairobi),M,35,35-39 Years,MHRCGU,NULL,10-02-23,PTB GXpert +ve,No Error,"Cure, outcome",04-02-24,Negative
+12881,Baraka Dispensary (Nairobi),F,29,12-25-28,MHRDGT,NULL,10-03-23,PTB GXpert +ve,No Error,"Cure, outcome",04-03-24,Negative
+12881,Baraka Dispensary (Nairobi),F,39,35-39 Years,MGGF47,1288100645,10-03-23,PTB GXpert +ve,No Error,Missing,NULL,Positive
+12881,Baraka Dispensary (Nairobi),M,27,12-25-28,MHRFR3,NULL,10-04-23,PTB GXpert -ve,No Error,Treatment complete,04-04-24,Negative
+12881,Baraka Dispensary (Nairobi),F,35,35-39 Years,MHRFUV,NULL,10-06-23,PTB GXpert +ve,No Error,"Cure, outcome",04-04-24,Negative
+12881,Baraka Dispensary (Nairobi),F,8,05-09-00,MHUEN4,NULL,10-03-23,PTB GXpert -ve,PTB GXpert -ve Error,"Cure, outcome",04-15-24,Negative
+12881,Baraka Dispensary (Nairobi),F,23,12-20-23,MHRDJM,NULL,10-03-23,PTB GXpert +ve,No Error,"Cure, outcome",04-03-24,Negative
+12881,Baraka Dispensary (Nairobi),M,23,12-20-23,MHRGRY,NULL,10-06-23,PTB GXpert +ve,PTB GXpert +ve Error,Lost to followup,07-01-24,Negative
+12881,Baraka Dispensary (Nairobi),F,17,12-15-18,MHRH3G,NULL,10-11-23,PTB GXpert -ve,PTB GXpert -ve Error,"Cure, outcome",04-08-24,Negative
+12881,Baraka Dispensary (Nairobi),M,64,50+ Years,MHRJPY,NULL,10-12-23,PTB GXpert -ve,No Error,Treatment complete,04-22-24,Negative
+12881,Baraka Dispensary (Nairobi),M,18,12-15-18,MHRHVP,NULL,10-13-23,PTB GXpert +ve,No Error,"Cure, outcome",04-11-24,Negative
+12881,Baraka Dispensary (Nairobi),M,70,50+ Years,MHTDDX,NULL,11-01-23,PTB GXpert -ve,No Error,Treatment complete,05-02-24,Negative
+12881,Baraka Dispensary (Nairobi),M,40,40-44 Years,MHTPEH,NULL,11-02-23,PTB GXpert +ve,PTB GXpert +ve Error,Treatment complete,05-02-24,Negative
+12881,Baraka Dispensary (Nairobi),F,25,12-25-28,MHTELD,NULL,11-02-23,PTB GXpert -ve,No Error,Treatment complete,05-02-24,Negative
+12881,Baraka Dispensary (Nairobi),F,27,12-25-28,MHTE3H,NULL,11-02-23,PTB GXpert +ve,No Error,"Cure, outcome",05-03-24,Negative
+12881,Baraka Dispensary (Nairobi),M,1,01-04-00,MHUGCU,NULL,11-07-23,PTB GXpert -ve,No Error,Treatment complete,05-17-24,Negative
+12881,Baraka Dispensary (Nairobi),F,2,01-04-00,MHRTAP,NULL,11-22-23,PTB GXpert -ve,No Error,Treatment complete,05-31-24,Negative
+12881,Baraka Dispensary (Nairobi),M,35,35-39 Years,MHTLJC,NULL,11-09-23,EPTB,No Error,Treatment complete,05-03-24,Negative
+12881,Baraka Dispensary (Nairobi),M,41,40-44 Years,MHUETU,NULL,10-06-23,PTB GXpert -ve,PTB GXpert -ve Error,"Cure, outcome",04-05-24,Negative
+12881,Baraka Dispensary (Nairobi),M,20,12-20-23,MHRXVA,NULL,10-24-23,PTB GXpert +ve,No Error,"Cure, outcome",04-25-24,Negative
+12881,Baraka Dispensary (Nairobi),F,31,12-30-33,MHUGJE,NULL,10-19-23,PTB GXpert -ve,No Error,Treatment complete,04-22-24,Negative
+12881,Baraka Dispensary (Nairobi),F,43,40-44 Years,MHUVDD,1288108867,12-08-23,PTB GXpert +ve,No Error,"Cure, outcome",07-01-24,Positive
+12881,Baraka Dispensary (Nairobi),M,45,45-49 Years,MHUVV7,1288108868,12-11-23,PTB Smear Not Done,PTB Error,"Cure, outcome",07-11-24,Positive
+12881,Baraka Dispensary (Nairobi),F,36,35-39 Years,MHUHK9,1288108863,12-11-23,PTB GXpert -ve,No Error,Treatment complete,06-06-24,Positive
+12881,Baraka Dispensary (Nairobi),F,14,10-14-00,MGRHP4,12881005722,12-13-23,PTB GXpert -ve,No Error,Treatment complete,06-28-24,Positive
+12881,Baraka Dispensary (Nairobi),F,26,12-25-28,MHV6FU,1288108869,12-14-23,EPTB,No Error,Missing,NULL,Positive
+12881,Baraka Dispensary (Nairobi),F,2,01-04-00,MHV997,NULL,11-22-23,PTB GXpert -ve,No Error,Treatment complete,05-31-24,Negative
+12881,Baraka Dispensary (Nairobi),M,4,01-04-00,MH4ME3,NULL,12-13-23,PTB Smear Not Done,No Error,Treatment complete,06-14-24,Negative
+12881,Baraka Dispensary (Nairobi),M,29,12-25-28,MHT6U4,NULL,10-27-23,PTB GXpert +ve,PTB GXpert +ve Error,Lost to followup,01-15-24,Negative
+12881,Baraka Dispensary (Nairobi),F,16,12-15-18,MHT6WW,NULL,11-27-23,PTB GXpert +ve,PTB GXpert +ve Error,Treatment complete,05-03-24,Negative
+12881,Baraka Dispensary (Nairobi),M,63,50+ Years,MHV6C4,NULL,12-15-23,PTB GXpert -ve,No Error,Lost to followup,04-04-24,Negative
+12881,Baraka Dispensary (Nairobi),M,22,12-20-23,MHVAGM,NULL,12-15-23,PTB GXpert +ve,PTB GXpert +ve Error,Lost to followup,02-05-24,Negative
+12881,Baraka Dispensary (Nairobi),M,12,10-14-00,MHTLMY,NULL,11-09-23,EPTB,No Error,Lost to followup,12-28-23,Negative
+12881,Baraka Dispensary (Nairobi),F,34,12-30-33,MJ6PMA,NULL,11-10-23,PTB GXpert +ve,No Error,Missing,NULL,Positive
+12881,Baraka Dispensary (Nairobi),F,35,35-39 Years,MHT4HV,NULL,10-26-23,PTB GXpert -ve,No Error,Treatment complete,04-22-24,Negative
+12881,Baraka Dispensary (Nairobi),F,4,01-04-00,MGXDK7,NULL,12-13-23,PTB GXpert -ve,No Error,Treatment complete,09-13-24,Negative
+12905,Coptic Hospital (Ngong Road),M,43,40-44 Years,MRMG4E,1290522280,10-23-23,PTB GXpert +ve,No Error,"Cure, outcome",10-23-24,Positive
+12905,Coptic Hospital (Ngong Road),M,60,50+ Years,MRTPXX,1290522334,11-15-23,PTB GXpert +ve,No Error,"Cure, outcome",05-09-24,Positive
+12905,Coptic Hospital (Ngong Road),M,44,40-44 Years,MRUCTM,1290522346,11-21-23,EPTB,No Error,Treatment complete,04-24-24,Positive
+12905,Coptic Hospital (Ngong Road),M,35,35-39 Years,MRT9WK,NULL,11-09-23,PTB GXpert +ve,No Error,"Cure, outcome",12-17-24,Negative
+12905,Coptic Hospital (Ngong Road),F,23,12-20-23,MRY9MP,NULL,10-05-23,EPTB,No Error,Treatment complete,10-23-24,Negative
+12905,Coptic Hospital (Ngong Road),F,40,40-44 Years,MRY9VA,NULL,10-09-23,PTB GXpert +ve,No Error,"Cure, outcome",10-09-23,Negative
+12905,Coptic Hospital (Ngong Road),F,52,50+ Years,MRYANL,NULL,10-04-23,PTB GXpert +ve,PTB GXpert +ve Error,Treatment complete,12-17-24,Negative
+12905,Coptic Hospital (Ngong Road),F,28,12-25-28,MRYD9J,NULL,10-13-23,PTB GXpert +ve,No Error,"Cure, outcome",10-23-24,Positive
+12905,Coptic Hospital (Ngong Road),F,45,45-49 Years,MRKUGF,NULL,10-16-23,PTB GXpert -ve,No Error,Treatment complete,10-06-23,Positive
+12905,Coptic Hospital (Ngong Road),F,60,50+ Years,MRYDAG,NULL,10-18-23,PTB GXpert +ve,No Error,"Cure, outcome",10-23-24,Negative
+12905,Coptic Hospital (Ngong Road),F,53,50+ Years,MGHWD4,1290501600,10-24-23,EPTB,No Error,Treatment complete,10-24-23,Positive
+12905,Coptic Hospital (Ngong Road),M,25,12-25-28,MRYDHX,NULL,10-17-23,PTB GXpert -ve,No Error,Treatment complete,10-23-24,Negative
+12905,Coptic Hospital (Ngong Road),F,17,12-15-18,MRMWX4,NULL,10-26-23,PTB GXpert +ve,PTB GXpert +ve Error,Tuberculosis treatment failure,10-23-24,Negative
+12905,Coptic Hospital (Ngong Road),M,24,12-20-23,MPNTPM,NULL,10-27-23,EPTB,No Error,Not assessed,12-16-24,Negative
+12905,Coptic Hospital (Ngong Road),M,20,12-20-23,MRYEKP,NULL,10-31-23,PTB GXpert -ve,No Error,Treatment complete,10-23-24,Negative
+12905,Coptic Hospital (Ngong Road),F,16,12-15-18,MRYEWY,NULL,11-06-23,EPTB,No Error,Treatment complete,12-17-24,Negative
+12905,Coptic Hospital (Ngong Road),F,31,12-30-33,MRYFHV,NULL,11-07-23,PTB GXpert +ve,No Error,"Cure, outcome",12-17-24,Negative
+12905,Coptic Hospital (Ngong Road),F,62,50+ Years,MRYFYT,NULL,11-11-23,EPTB,No Error,Treatment complete,12-17-24,Negative
+12905,Coptic Hospital (Ngong Road),F,64,50+ Years,MRYG7H,NULL,11-23-23,PTB GXpert -ve,No Error,Died,01-02-24,Negative
+12905,Coptic Hospital (Ngong Road),F,50,50+ Years,MGLRA6,1290503394,11-29-23,PTB GXpert -ve,No Error,Treatment complete,12-17-24,Positive
+12905,Coptic Hospital (Ngong Road),M,32,12-30-33,MRYVWH,NULL,12-04-23,PTB GXpert -ve,No Error,Treatment complete,12-17-24,Negative
+12905,Coptic Hospital (Ngong Road),F,39,35-39 Years,MRWNLH,NULL,12-04-23,EPTB,No Error,Died,12-17-24,Negative
+12905,Coptic Hospital (Ngong Road),F,34,12-30-33,MNYKVX,NULL,12-08-23,PTB GXpert +ve,No Error,"Cure, outcome",12-17-24,Negative
+12905,Coptic Hospital (Ngong Road),M,42,40-44 Years,MRVRLH,1290522376,12-18-23,PTB GXpert +ve,No Error,"Cure, outcome",05-21-24,Positive
+12905,Coptic Hospital (Ngong Road),M,64,50+ Years,MRYD7L,NULL,12-11-23,EPTB,No Error,Died,06-26-24,Positive
+12905,Coptic Hospital (Ngong Road),F,44,40-44 Years,MH6EEA,1290511299,10-11-23,PTB Smear Not Done,No Error,Missing,NULL,Positive
+12905,Coptic Hospital (Ngong Road),F,28,12-25-28,MTJCDC,NULL,10-11-23,EPTB,No Error,Missing,NULL,Negative
+12905,Coptic Hospital (Ngong Road),F,19,12-15-18,MPEXR4,NULL,10-27-23,PTB Smear Not Done,PTB Error,"Cure, outcome",03-19-24,Negative
+12904,Coptic Medical Medical,M,52,50+ Years,MJEAFR,1290405667,11-08-23,PTB Smear Not Done,No Error,Lost to followup,01-08-24,Positive
+12904,Coptic Medical Medical,F,55,50+ Years,MHDUMR,NULL,11-03-23,PTB Smear Not Done,No Error,Not assessed,11-21-23,Negative
+12904,Coptic Medical Medical,M,37,35-39 Years,MJFYR7,1290405697,12-13-23,PTB GXpert +ve,No Error,Missing,NULL,Positive
+12904,Coptic Medical Medical,M,3,01-04-00,MHRJCW,NULL,10-16-23,PTB GXpert -ve,No Error,Treatment complete,05-07-24,Negative
+18745,Comboni Sisters H Project VCT,M,43,40-44 Years,MGPRRT,NULL,10-17-23,PTB GXpert -ve,No Error,Treatment complete,04-15-24,Negative
+18745,Comboni Sisters H Project VCT,M,57,50+ Years,MGPTTN,NULL,10-24-23,PTB GXpert +ve,No Error,"Cure, outcome",05-13-24,Negative
+18745,Comboni Sisters H Project VCT,M,37,35-39 Years,MGPVUJ,NULL,10-31-23,PTB GXpert +ve,No Error,"Cure, outcome",05-07-24,Negative
+18745,Comboni Sisters H Project VCT,M,38,35-39 Years,MGPVVG,NULL,10-31-23,EPTB,No Error,Treatment complete,11-05-24,Negative
+18745,Comboni Sisters H Project VCT,F,23,12-20-23,MGPXMU,NULL,11-08-23,PTB GXpert +ve,No Error,"Cure, outcome",05-09-24,Negative
+18745,Comboni Sisters H Project VCT,M,40,40-44 Years,MGPYKX,1874502080,11-14-23,PTB GXpert +ve,No Error,"Cure, outcome",05-09-24,Positive
+18745,Comboni Sisters H Project VCT,M,40,40-44 Years,MGPHLF,1874502063,11-20-23,EPTB,No Error,Treatment complete,05-21-24,Positive
+18745,Comboni Sisters H Project VCT,M,44,40-44 Years,MGNPER,NULL,12-15-23,PTB GXpert +ve,No Error,"Cure, outcome",07-01-24,Negative
+13057,Makadara Mercy Sisters Dispensary,F,27,12-25-28,MGTCA9,NULL,12-12-23,PTB GXpert +ve,No Error,"Cure, outcome",06-13-24,Negative
+13057,Makadara Mercy Sisters Dispensary,M,45,45-49 Years,MGTA7F,1305707290,12-23-23,PTB Smear Not Done,No Error,Treatment complete,07-02-24,Positive
+13057,Makadara Mercy Sisters Dispensary,M,33,12-30-33,MGTDP7,1305707295,12-29-23,PTB GXpert -ve,No Error,Treatment complete,06-19-24,Positive
+24563,Nairobi Adventist Hospital,F,23,12-20-23,MGK3M4,NULL,10-04-23,EPTB,No Error,Treatment complete,04-04-24,Negative
+24563,Nairobi Adventist Hospital,M,26,12-25-28,MGK4M3,NULL,10-18-23,PTB GXpert +ve,No Error,"Cure, outcome",04-18-24,Negative
+24563,Nairobi Adventist Hospital,M,15,12-15-18,MGKAHA,NULL,11-08-23,PTB Smear Not Done,No Error,Treatment complete,05-08-24,Negative
+24563,Nairobi Adventist Hospital,M,45,45-49 Years,MGJ7VL,NULL,12-13-23,PTB Smear Not Done,No Error,Treatment complete,12-13-23,Negative
+24563,Nairobi Adventist Hospital,M,31,12-30-33,MGKKCD,1050600314,12-27-23,PTB Smear Not Done,No Error,Treatment complete,06-27-24,Positive
+24563,Nairobi Adventist Hospital,F,39,35-39 Years,MGKHEA,2456300314,12-27-23,PTB GXpert +ve,No Error,"Cure, outcome",06-27-24,Positive
+13209,St Joseph W Dispensary (Westlands),F,40,40-44 Years,MGVCWM,1320911203,11-16-23,EPTB,No Error,Missing,NULL,Positive
+15862,Coptic Nursing Home,F,24,12-20-23,MHPFR6,1586206151,10-04-23,PTB GXpert +ve,PTB GXpert +ve Error,Treatment complete,03-21-24,Positive
+15862,Coptic Nursing Home,F,38,35-39 Years,MJ4P3K,NULL,11-08-23,EPTB,No Error,Treatment complete,04-08-24,Positive
+15862,Coptic Nursing Home,M,59,50+ Years,MJ7MTW,NULL,12-22-23,EPTB,No Error,Missing,NULL,Negative
+15862,Coptic Nursing Home,M,58,50+ Years,MHUEYG,1586206202,10-03-23,EPTB,No Error,Died,10-11-23,Positive
+17723,St Barkita Dispensary (Westlands),M,53,50+ Years,MGRFNA,1772300770,12-28-23,PTB Smear Not Done,PTB Error,"Cure, outcome",07-20-24,Positive
+17683,St Raphael Clinic,M,57,50+ Years,MGWPW6,1768300932,10-23-23,PTB GXpert -ve,No Error,Treatment complete,04-25-24,Positive
+13074,The Mater Hospital Mukuru,M,47,45-49 Years,MHVALC,1307409076,10-03-23,PTB Smear Not Done,No Error,Transferred out,03-20-24,Positive
+13074,The Mater Hospital Mukuru,M,53,50+ Years,MHVCHJ,1307409082,10-03-23,EPTB,No Error,Treatment complete,03-22-24,Positive
+13074,The Mater Hospital Mukuru,M,45,45-49 Years,MHW9VN,1307409093,11-03-23,PTB Smear Not Done,No Error,Treatment complete,05-02-24,Positive
+13074,The Mater Hospital Mukuru,M,34,12-30-33,MGLRLE,1307403768,11-13-23,EPTB,EPTB Error,"Cure, outcome",05-06-24,Positive
+13074,The Mater Hospital Mukuru,F,30,12-30-33,MHVRG6,1307409092,11-01-23,EPTB,No Error,Treatment complete,04-08-24,Positive
+13074,The Mater Hospital Mukuru,M,54,50+ Years,MHX36D,NULL,12-04-23,PTB GXpert +ve,No Error,"Cure, outcome",05-30-24,Negative
+13074,The Mater Hospital Mukuru,M,64,50+ Years,MHXRCC,NULL,12-04-23,PTB GXpert -ve,No Error,Treatment complete,07-30-24,Negative
+13074,The Mater Hospital Mukuru,M,34,12-30-33,MHXRD9,NULL,12-06-23,PTB Smear Not Done,No Error,Treatment complete,05-31-24,Negative
+13074,The Mater Hospital Mukuru,M,30,12-30-33,MHXRE6,NULL,12-13-23,EPTB,No Error,Treatment complete,05-31-24,Negative
+
