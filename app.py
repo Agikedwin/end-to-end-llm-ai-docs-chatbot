@@ -14,10 +14,15 @@ app = Flask(__name__)
 load_dotenv()
 
 PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY')
-OPENAI_API_KEY=os.environ.get('OPENAI_API_KEY')
+OPENAI_API_KEY=OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
+print('API KEY----------------------------------')
+
+print(OPENAI_API_KEY)
+print('--------------------------------------------')
+
 
 embeddings = download_hugging_face_embeddings()
 

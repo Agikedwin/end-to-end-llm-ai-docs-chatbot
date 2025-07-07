@@ -3,5 +3,7 @@ cvenv
 cvenv/
 .env
 .env/
-/.env
+.env
+.env/*
+awsk/*
 
