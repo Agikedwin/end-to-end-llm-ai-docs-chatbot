@@ -35,10 +35,10 @@ docsearch = PineconeVectorStore.from_existing_index(
     embedding=embeddings
 )
 
-retriever = docsearch.as_retriever(search_type="similarity", search_kwargs={"k":10})
+retriever = docsearch.as_retriever(search_type="similarity", search_kwargs={"k":4})
 
 
-llm = OpenAI(temperature=0.6, max_tokens=500)
+llm = OpenAI(temperature=0.2, max_tokens=500)
 prompt = ChatPromptTemplate.from_messages(
     [
         ("system", system_prompt),
