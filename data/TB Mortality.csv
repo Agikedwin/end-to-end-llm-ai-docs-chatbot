@@ -1,6 +1,0 @@
-﻿mfl,patient_id,Facility_Name,Age,Age_group,gender,openmrs_id,upn,TB_Type,Client_HIV_Status,reason_discontinued,Discontinuation_Date,death_cause
-12905,128150,Coptic Hospital (Ngong Road),40,40-44 Years,F,MRWNLH,NULL,EPTB,Negative,Died,12-17-24,NULL
-12881,29530,Baraka Dispensary (Nairobi),39,35-39 Years,F,MJFC69,1288109079,PTB GXpert +ve,Positive,Died,10-11-24,RIP
-12881,26061,Baraka Dispensary (Nairobi),66,50+ Years,F,MJ7K7D,NULL,PTB GXpert -ve,Negative,Died,11-14-24,RIP- Heart disease
-12881,30413,Baraka Dispensary (Nairobi),35,35-39 Years,M,MJGPCE,1288109097,EPTB,Positive,Died,12-16-24,Died on 12/12/2024 at Mama Lucy
-

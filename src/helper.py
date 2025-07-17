@@ -29,12 +29,12 @@ def load_data_from_url():
     
     return data_url
 #Load csv and pdfs
-def load_csv_and_pdf_files(data):
-    print(f"Loading data from: {data}")
+def load_csv_and_pdf_files(datan):
+    print(f"Loading data from: {datan}")
     
     # Load PDF files
     pdf_loader = DirectoryLoader(
-        data,
+        datan,
         glob="*.pdf",
         loader_cls=PyPDFLoader
     )
@@ -43,7 +43,7 @@ def load_csv_and_pdf_files(data):
 
     # Load CSV files
     csv_loader = DirectoryLoader(
-        data,
+        datan,
         glob="*.csv",
         loader_cls=CSVLoader
     )
@@ -59,11 +59,11 @@ def load_csv_and_pdf_files(data):
 
 
 
-extracted_all_data = load_csv_and_pdf_files(data='data/')
+extracted_all_data = load_csv_and_pdf_files(datan='data/')
 
 #Split the Data into Text Chunks
 def text_split(extracted_all_data):
-    text_splitter=RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=20)
+    text_splitter=RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
     text_chunks=text_splitter.split_documents(extracted_all_data)
     return text_chunks
 
