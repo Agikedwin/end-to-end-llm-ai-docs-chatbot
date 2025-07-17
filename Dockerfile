@@ -1,9 +1,14 @@
 # Use the official Python base image
 FROM python:3.11-slim
+# Accept build arguments
+ARG OPENAI_API_KEY
+ARG PINECONE_API_KEY
 
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
+ENV OPENAI_API_KEY=$OPENAI_API_KEY
+ENV PINECONE_API_KEY=$PINECONE_API_KEY
 
 # Set working directory
 WORKDIR /app
