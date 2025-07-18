@@ -28,7 +28,7 @@ RUN pip install -U sentence-transformers
 COPY . .
 
 # Expose the port your app runs on
-EXPOSE 8085
+EXPOSE 4000
 
 # Set the default command
 CMD ["python3", "app.py"]
