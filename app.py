@@ -75,9 +75,9 @@ def format_with_br_tags(answer: str) -> str:
                     chunk_words = chunk.split()
                     word_count += len(chunk_words)
                     rebuilt += chunk
-                    if word_count >= 25:
+                    """ if word_count >= 25:
                         rebuilt += "<br>"
-                        word_count = 0
+                        word_count = 0 """
                 new_sentences.append(rebuilt)
             else:
                 new_sentences.append(sentence)
