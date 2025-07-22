@@ -54,7 +54,7 @@ def load_csv_and_pdf_files(datan):
     url_data = load_data_from_url()
 
     # Combine documents
-    all_documents = pdf_documents + csv_documents + url_data
+    all_documents = pdf_documents + csv_documents #+ url_data
     return all_documents
 
 
